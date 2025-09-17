@@ -81,23 +81,23 @@ export default function Contact() {
 
   const teamContacts = [
     {
-      name: "Dr. Amit Sharma",
+      name: "Dr. Sukruit Kaulgud",
       role: "Faculty Coordinator",
-      email: "amit.sharma@tcetmumbai.in",
+      email: "tcetedic@tcetmumbai.in",
       specialization: "Startup Mentoring & Technology Innovation",
       availability: "Mon-Fri 10:00 AM - 4:00 PM"
     },
     {
-      name: "Arjun Kumar", 
-      role: "Student President",
-      email: "arjun.kumar@student.tcetmumbai.in",
+      name: "Ayush Pardeshi", 
+      role: "CEO TCET EDIC",
+      email: "tcetedic.tcetmumbai.in",
       specialization: "Student Queries & Event Coordination",
       availability: "Mon-Fri 2:00 PM - 6:00 PM"
     },
     {
-      name: "Sneha Gupta",
-      role: "Vice President",
-      email: "sneha.gupta@student.tcetmumbai.in", 
+      name: "Ahana Kulkarni",
+      role: "CTO TCET EDIC",
+      email: "edictcet.tcetmumbai.in", 
       specialization: "Workshop Organization & Partnerships",
       availability: "Tue, Thu, Sat 11:00 AM - 3:00 PM"
     }
