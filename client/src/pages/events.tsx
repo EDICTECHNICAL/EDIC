@@ -11,11 +11,11 @@ export default function Events() {
   const featuredEvents = [
    
     {
-  title: "MSME Hackathon 5.0 - College Level Round",
-  date: "Declaring Soon",
-  time: "Declaring Soon",
-  location: "Thakur College Campus (Offline)",
-  description: "Opportunity for innovators to pitch, build, and collaborate on projects as part of MSME Hackathon 5.0. Compete for a ₹15 Lakh prize pool, incubation support, networking, and project collaborations. Open to students with new ideas or ongoing projects.",
+  title: "TechPreneur 2.0",
+  date: "25th and 27th September",
+  time: "9 am - 5 pm",
+  location: "Thakur College - SH3 (Offline)",
+  description: "Opportunity for innovators to pitch, build, and collaborate on projects for a ₹15000 prize pool, incubation support, networking, and project collaborations. Open to students with new ideas or ongoing projects.",
   image: "/api/placeholder/600/300",
   featured: true,
   status: "upcoming",
