@@ -132,7 +132,6 @@ export default function Team() {
       division: "A",
       rollNo: "10",
       position: "Chief Marketing Officer",
-      photo: 
     },
     {
       name: "Yash Khatri",
@@ -177,7 +176,6 @@ export default function Team() {
       division: "A",
       rollNo: "20",
       position: "Creative Head",
-      photo: 
     },
     {
       name: "Rashi Bedse",
