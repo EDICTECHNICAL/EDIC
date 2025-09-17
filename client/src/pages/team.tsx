@@ -126,13 +126,13 @@ export default function Team() {
       photo: BhummiImg
     },
     {
-      name: "Khushal Satyapal",
-      class: "TE",
-      branch: "EXTC",
-      division: "B",
-      rollNo: "16",
+      name: "Hredey Chaand",
+      class: "SE",
+      branch: "COMP",
+      division: "A",
+      rollNo: "10",
       position: "Chief Marketing Officer",
-      photo: kushalImg
+      photo: 
     },
     {
       name: "Yash Khatri",
@@ -171,13 +171,13 @@ export default function Team() {
       photo: RajImg
     },
     {
-      name: "Ansh Singh",
+      name: "Krish Choudhary",
       class: "SE",
-      branch: "ECS",
-      division: "NA",
-      rollNo: "48",
+      branch: "COMP",
+      division: "A",
+      rollNo: "20",
       position: "Creative Head",
-      photo: anshImg
+      photo: 
     },
     {
       name: "Rashi Bedse",
@@ -216,13 +216,13 @@ export default function Team() {
       photo: TanviImg
     },
     {
-      name: "Hredey Chaand",
+      name: "Mishti Dhiman",
       class: "SE",
       branch: "Comp",
       division: "A",
-      rollNo: "10",
+      rollNo: "23",
       position: "PR Head",
-      photo: HredeyImg
+      photo: 
     },
     {
       name: "Yash Yadav",
