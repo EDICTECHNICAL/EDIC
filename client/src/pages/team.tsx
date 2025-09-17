@@ -220,7 +220,6 @@ export default function Team() {
       division: "A",
       rollNo: "23",
       position: "PR Head",
-      photo: 
     },
     {
       name: "Yash Yadav",
